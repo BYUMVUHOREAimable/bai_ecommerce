@@ -33,9 +33,8 @@ export default function Home() {
             <h1 className="max-w-2xl mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl xl:text-6xl">
               Best Fashion Collection
             </h1>
-            <p className="max-w-2xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
-              Quisquemos sodales suscipit tortor ditaemcos condimentum de cosmo
-              lacus meleifend menean diverra loremous.
+            <p className="max-w-xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
+              At BAI's Ecommerce, we are on a mission to redefine your shopping experience and offer you a world of convenience, quality, and choice, right at your fingertips. Join the revolution and experience the future of retail with BAI's Ecommerce. Shop with confidence, explore the extraordinary, and redefine your shopping journey today. Your world of possibilities awaits!
             </p>
 
             <button
@@ -48,7 +47,7 @@ export default function Home() {
           </div>
           <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
             <img
-              src="https://images.unsplash.com/photo-1483985988355-763728e1935b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+              src="https://lh3.googleusercontent.com/pw/ADCreHeZzn_tULvKxUo-zdKKIZSrAenGL7EU19TqU1M3C5nkLTd_1T6bOCl4SP0TjjwFq69OFN1ID3YgBB4T5nx7LsxAfcAPIN7W8hvTgiVTzzdRyTnwyBVbZjxnynZa_BfnxF5fLJvet9qGYzk0RFYZH2NEfOvV-wDcwpMiuutWFFFhYkpf0OKzLmEtkdaPibfmlWjToIai1zwgizDAMc2jpZKM-ugaSaY-JhTILMc_ckt4lXarmP_nc2JEUJN6pyselJjv9HjHuh1ycsWNJWRQ6G_2mkOziWQKwLv8o1bnisLUefQNVA_ieKCIxdjaxpuUGwGBhp7sWcNYFvK4FctcdcgPey1Cxg4ljYjXbeyH67p0pKtARl9PiUkVGISuyRwkMJqL1_t58n1jQ9Br4TBF-JP3dRWuZy4Wyz2Lq3L3xB9Si0SSMESGebrFmkfTR7SWbb0drIp5pdr6iKPpBuTPV8VwU-Vgo1FAEkrD0EYpLGy2ST2KdFFvSq7aYoog_YpNZCHXgcIrBiBo1rLNkcM6_7O-zJxo64GrOXYBY9sCuAE9d5HE67XsWeahRNlUbG1GgjKdK1jinj7kGHJv87Gx3m4ILnXqxy3jSbNoIuUMK6_VXS31lZ3KFP8H1fsg-iHCWRbLnvKjvqSvjlOQjCOD5uAuN8l30ZSLF5xOYweY8_41ZTcsfowyat9xb_LcgSRlaaTPg4saz_Pvp0SJWjPExLsWQn15LKFBfHnVtx4GdkOzD2f6Fr5qbECYWtudIsTa7FFx7soCFkBbYbmEn4lBiEJalvBj8497c363rYt6HHZZBBwiFX0N0ZCIPNMXWDPWs68qlR4QqpeyMuZmeVvdqs1Bs4szs8GnysEgWDfiTUSIZDpnmwGK3DqQGxhcJWZaeGKQ3kMYZef-F5C9UnPMdrrSzApPtA_ZI2b-I2Q9L9SubtoUFcQhMDUmA3B7ErhxUuFOE1qPResFH9ilsD9NJQmmg2dh1L_k=w1280-h720-s-no?authuser=0"
               alt="Explore Shop Collection"
             />
           </div>
@@ -117,7 +116,7 @@ export default function Home() {
             <li>
               <div className="relative block group">
                 <img
-                  src="https://images.unsplash.com/photo-1618898909019-010e4e234c55?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+                  src="https://www.newbalance.com/dw/image/v2/AAGI_PRD/on/demandware.static/-/Library-Sites-NBUS-NBCA/default/dw69facd28/images/page-designer/2023/july/15260_Comp_A4_Mobile.jpg?sw=991&sfrm=jpg"
                   className="object-cover w-full aspect-square"
                 />
                 <div className="absolute inset-0 flex flex-col items-start justify-end p-6">
@@ -134,7 +133,7 @@ export default function Home() {
             <li>
               <div className="relative block group">
                 <img
-                  src="https://images.unsplash.com/photo-1624623278313-a930126a11c3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80"
+                  src="https://assets.vogue.com/photos/6128027eb5cae63a108a2de7/master/w_1600%2Cc_limit/liana-shoes.jpg"
                   className="object-cover w-full aspect-square"
                 />
                 <div className="absolute inset-0 flex flex-col items-start justify-end p-6">
@@ -151,7 +150,7 @@ export default function Home() {
             <li className="lg:col-span-2 lg:col-start-2 lg:row-span-2 lg:row-start-1">
               <div className="relative block group">
                 <img
-                  src="https://images.unsplash.com/photo-1593795899768-947c4929449d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2672&q=80"
+                  src="https://i.insider.com/63fe28b1b8468e001896cd70?width=1136&format=jpeg"
                   className="object-cover w-full aspect-square"
                 />
                 <div className="absolute inset-0 flex flex-col items-start justify-end p-6">

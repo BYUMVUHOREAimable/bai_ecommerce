@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 43, 22, 30;
+  --background-start-rgb: 14, 119, 120;
+  --background-end-rgb: 25, 55, 25;
+}
+
+@media (prefers-color-scheme: pink) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  min-height: 100vh;
+  height: 100%;
+}
+
+body::-webkit-scrollbar {
+  width: 5px;
+}
+ 
+body::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 6px rgba(105, 31, 132, 0.3);
+}
+ 
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(68, 113, 175);
+  outline: 1px solid rgb(154, 235, 78);
+}

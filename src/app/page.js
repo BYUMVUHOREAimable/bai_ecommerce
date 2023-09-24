@@ -34,7 +34,7 @@ export default function Home() {
               Best Fashion Collection
             </h1>
             <p className="max-w-xl mb-6 font-light text-gray-500 lg:mb-8 md:text-lg lg:text-xl">
-              At BAI's Ecommerce, we are on a mission to redefine your shopping experience and offer you a world of convenience, quality, and choice, right at your fingertips. Join the revolution and experience the future of retail with BAI's Ecommerce. Shop with confidence, explore the extraordinary, and redefine your shopping journey today. Your world of possibilities awaits!
+              At BAI's Ecommerce, we are on a mission to redefine your shopping experience and offer you a world of convenience, quality, and choice, right at your fingertips. Join the revolution and experience the future of retail with BAI's Ecommerce.
             </p>
 
             <button

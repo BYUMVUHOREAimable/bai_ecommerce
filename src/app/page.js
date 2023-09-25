@@ -47,7 +47,7 @@ export default function Home() {
           </div>
           <div className="hidden lg:mt-0 lg:col-span-5 lg:flex">
             <img
-              src="https://lh3.googleusercontent.com/pw/ADCreHeZzn_tULvKxUo-zdKKIZSrAenGL7EU19TqU1M3C5nkLTd_1T6bOCl4SP0TjjwFq69OFN1ID3YgBB4T5nx7LsxAfcAPIN7W8hvTgiVTzzdRyTnwyBVbZjxnynZa_BfnxF5fLJvet9qGYzk0RFYZH2NEfOvV-wDcwpMiuutWFFFhYkpf0OKzLmEtkdaPibfmlWjToIai1zwgizDAMc2jpZKM-ugaSaY-JhTILMc_ckt4lXarmP_nc2JEUJN6pyselJjv9HjHuh1ycsWNJWRQ6G_2mkOziWQKwLv8o1bnisLUefQNVA_ieKCIxdjaxpuUGwGBhp7sWcNYFvK4FctcdcgPey1Cxg4ljYjXbeyH67p0pKtARl9PiUkVGISuyRwkMJqL1_t58n1jQ9Br4TBF-JP3dRWuZy4Wyz2Lq3L3xB9Si0SSMESGebrFmkfTR7SWbb0drIp5pdr6iKPpBuTPV8VwU-Vgo1FAEkrD0EYpLGy2ST2KdFFvSq7aYoog_YpNZCHXgcIrBiBo1rLNkcM6_7O-zJxo64GrOXYBY9sCuAE9d5HE67XsWeahRNlUbG1GgjKdK1jinj7kGHJv87Gx3m4ILnXqxy3jSbNoIuUMK6_VXS31lZ3KFP8H1fsg-iHCWRbLnvKjvqSvjlOQjCOD5uAuN8l30ZSLF5xOYweY8_41ZTcsfowyat9xb_LcgSRlaaTPg4saz_Pvp0SJWjPExLsWQn15LKFBfHnVtx4GdkOzD2f6Fr5qbECYWtudIsTa7FFx7soCFkBbYbmEn4lBiEJalvBj8497c363rYt6HHZZBBwiFX0N0ZCIPNMXWDPWs68qlR4QqpeyMuZmeVvdqs1Bs4szs8GnysEgWDfiTUSIZDpnmwGK3DqQGxhcJWZaeGKQ3kMYZef-F5C9UnPMdrrSzApPtA_ZI2b-I2Q9L9SubtoUFcQhMDUmA3B7ErhxUuFOE1qPResFH9ilsD9NJQmmg2dh1L_k=w1280-h720-s-no?authuser=0"
+              src="https://media.licdn.com/dms/image/D4D03AQEvdRENGNMhWA/profile-displayphoto-shrink_800_800/0/1686071611266?e=2147483647&v=beta&t=90GunF7UMTZoEIz4Fu6y2eR_5amaEp2H_0FaNGAUBaE"
               alt="Explore Shop Collection"
             />
           </div>

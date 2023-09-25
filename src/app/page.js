@@ -112,6 +112,7 @@ export default function Home() {
               SHOP BY CATEGORY
             </h2>
           </div>
+          
           <ul className="grid grid-cols-1 gap-4 mt-8 lg:grid-cols-3">
             <li>
               <div className="relative block group">
